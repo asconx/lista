@@ -1,0 +1,1 @@
+C:\Users\mateusz\source\repos\lista\lista\lista.csproj;x64
